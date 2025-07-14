@@ -31,21 +31,21 @@ Day of the Week: Highest sales on Wednesday (0.25M), followed by Tuesday and Sat
 
 Time of Day: Night hours lead with 0.58M in sales, indicating peak buying periods.
 
-Visualizations
+# Visualizations
 Bar Charts: Showcase top products, regions, and sales reps by total sales.
 
 Sales Trends: Analyze sales patterns by day of the week and time of day.
 
 KPI Cards: Quick-glance summary of critical business metrics.
 
-Business Value
+# Business Value
 Identify Best Performers: Quickly spot top products, regions, and sales reps to replicate success.
 
 Optimize Marketing: Focus efforts on peak sales periods and high-performing segments.
 
 Monitor KPIs: Track sales growth, profit, and return rates for continuous improvement.
 
-Usage
+# Usage
 This dashboard is ideal for:
 
 Sales managers seeking actionable insights.
