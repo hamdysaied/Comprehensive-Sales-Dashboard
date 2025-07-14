@@ -54,7 +54,7 @@ Executives monitoring business health.
 
 Teams aiming to optimize sales strategies and resource allocation.
 
-How to Use:
+# How to Use:
 
 Apply filters to focus on specific categories, regions, or time frames.
 
